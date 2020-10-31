@@ -7,7 +7,7 @@
   "window": {
     "navigationBarBackgroundColor": "#ff5777",
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "我的小程序",
+    "navigationBarTitleText": "欢迎界面",
     "backgroundColor": "#ff5777",
     "backgroundTextStyle": "light",
     "enablePullDownRefresh": true
@@ -34,5 +34,6 @@
         "selectedIconPath": "asstes/tabBar/shopping_2.png"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap49.json"
 }
